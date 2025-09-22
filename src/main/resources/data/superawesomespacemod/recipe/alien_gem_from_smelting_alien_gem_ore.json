@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "group": "alien_gem",
+  "ingredient": {
+    "item": "superawesomespacemod:alien_gem_ore"
+  },
+  "result": {
+    "id": "superawesomespacemod:alien_gem"
+  }
+}

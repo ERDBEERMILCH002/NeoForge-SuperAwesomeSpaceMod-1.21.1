@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "superawesomespacemod:item/raw_alien_gem"
+  }
+}

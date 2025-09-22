@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.1,
+  "group": "alien_gem",
+  "ingredient": {
+    "item": "superawesomespacemod:raw_alien_gem"
+  },
+  "result": {
+    "id": "superawesomespacemod:alien_gem"
+  }
+}

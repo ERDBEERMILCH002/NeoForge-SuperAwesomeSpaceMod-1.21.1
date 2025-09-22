@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "superawesomespacemod:block/alien_gem_block"
+  }
+}

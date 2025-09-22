@@ -1,0 +1,13 @@
+{
+  "item.superawesomespacemod.alien_gem": "Alien Gem",
+  "item.superawesomespacemod.raw_alien_gem": "Raw Alien Gem",
+  "item.superawesomespacemod.random_placer": "Random Placer",
+
+  "block.superawesomespacemod.alien_gem_block": "Block of Alien Gem",
+  "block.superawesomespacemod.alien_gem_ore": "Alien Gem Ore",
+  "block.superawesomespacemod.alien_gem_deepslate_ore": "Alien Gem Deepslate Ore",
+  "block.superawesomespacemod.magic_block": "Magic Block",
+
+  "creativetab.superawesomespacemod.super_awesome_space_items": "Super Awesome Space Items",
+  "creativetab.superawesomespacemod.super_awesome_space_blocks": "Super Awesome Space Blocks"
+}
